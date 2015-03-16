@@ -6,9 +6,9 @@ description: Základní informace o jednotlivých táborských pirátech. Přid�
 keywords: lide, piráti, tábor, podpora
 ---
 
+<!---
 
 <img src="/static/media/vklecanda.jpg" alt="vaclav klecanda - foto" class="left" />
-
 ### Václav Klecanda
 
 *[programátor/admin](http://www.vxk.cz) na volné noze*
@@ -26,7 +26,7 @@ Více na [pirátském profilu](http://www.pirati.cz/lide/vaclav_klecanda).
 <a href="https://github.com/vencax"><i class="fa fa-github"></i></a>
 
 ***
-
+-->
 <img src="/static/media/iwantyou.jpg" alt="posila - foto" class="left" />
 
 ### ?? Další odvážlivec, pirát, co má kuráž ??
