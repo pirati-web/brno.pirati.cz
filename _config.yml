@@ -1,9 +1,9 @@
-title: Piráti Tábor
-baseurl: http://tabor.pirati.cz
+title: Piráti Brno
+baseurl: http://brno.pirati.cz
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
-facebookurl: https://www.facebook.com/piratitabor
+facebookurl: 
 gems:
   - jekyll-sitemap
   - i18n

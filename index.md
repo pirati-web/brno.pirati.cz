@@ -10,10 +10,10 @@ keywords: piráti, tábor, organizace, transparence, politika
 	<div class="row">
 		<div class="small-8 columns">
 			<p>
-				Není ti lhostejné veřejné dění v Táboře?<br/>
+				Není ti lhostejné veřejné dění v Brně?<br/>
 				Je ti blízký pirátský program / ideje?<br/>
 				Máš kuráž a taky chceš transparentnější a modernější radnici?<br/>
-				Tak buď táborský pirát!
+				Tak buď brněnský pirát!
 			</p>
 
 			<a href="/lide/" class="primary button test">Ozvi se nám →</a>

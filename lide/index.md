@@ -27,19 +27,6 @@ Více na [pirátském profilu](http://www.pirati.cz/lide/vaclav_klecanda).
 
 ***
 
-<img src="/static/media/jmatlachova.jpg" alt="vaclav klecanda - foto" class="left" />
-
-### Jindra Matlachová
-
-*Angličtinářka a textařka*
-
-Více na [pirátském profilu](http://www.pirati.cz/lide/jindra_matlachova).
-
-<a href="mailto:vencax@centrum.cz"><i class="fa fa-envelope-o"></i></a>
-<a href="https://www.facebook.com/Jindulka68"><i class="fa fa-facebook-square"></i></a>
-
-***
-
 <img src="/static/media/iwantyou.jpg" alt="posila - foto" class="left" />
 
 ### ?? Další odvážlivec, pirát, co má kuráž ??
