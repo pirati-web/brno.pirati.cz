@@ -33,7 +33,7 @@ Více na [pirátském profilu](http://www.pirati.cz/lide/vaclav_klecanda).
 
 *aktivní/angažovaný*
 
-Táborák, kterému jsou blýzké pirátské ideje a chce pomoct je hájit.
+Táborák, kterému jsou blízké pirátské ideje a chce pomoct je hájit.
 <i class="fa fa-thumbs-o-up"></i>
 
 Ozvi se někomu z nás!
